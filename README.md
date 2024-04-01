@@ -7,7 +7,7 @@ I'm currently a Machine Learning Cohort at Bangkit 2024 Batch 1.
   <a href="https://reactjs.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://iconape.com/python-3-logo-icon-svg-png.html" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="SQL" title="SQL" width="21px" src="https://www.flaticon.com/free-icon/sql-server_2772128?term=sql&page=1&position=2&origin=tag&related_id=2772128" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Pandas" title="Pandas" width="21px" src="https://iconduck.com/icons/243723/pandas?shared" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://iconape.com/tensorflow-2-logo-icon-svg-png.html" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="[https://iconape.com/tensorflow-2-logo-icon-svg-png.html](https://seeklogo.com/vector-logo/394548/tensorflow)" /></a>
   <br>
   <br>
 
