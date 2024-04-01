@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! I'm Sammytha 👋
 
-<!--
-**semidust/semidust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A computer Science student with interests in Data Science and Artificial Intelligence. 
+I'm currently a Machine Learning Cohort at Bangkit 2024 Batch 1.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=semidust&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=semidust&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
