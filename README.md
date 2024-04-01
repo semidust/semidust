@@ -11,7 +11,7 @@ I'm currently a Machine Learning cohort at Bangkit 2024 Batch 1.
   <br>
   <br>
 
-### Github Statistic
+### GitHub Statistic
 <p align="left">
 <a href="https://github.com/semidust">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=semidust&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
