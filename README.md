@@ -1,7 +1,7 @@
 ### Hi! I'm Sammytha 👋
 
 A Computer Science student with interests in Data Science and Artificial Intelligence. 
-I'm currently a Machine Learning Cohort at Bangkit 2024 Batch 1.
+I'm currently a Machine Learning cohort at Bangkit 2024 Batch 1.
 
 ### Tech Stack
   <a href="https://reactjs.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" /></a>
